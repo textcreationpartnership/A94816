@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise concerning tongues appertaining to learning: viz. the [brace] Hebrew, Greek, Latine, Chaldean, Syrian, and Arabian. Shewing profit of skill in them, and in how short time a student may receive such instructions and directions in any one of them, as wherby he may afterward proceed in the understanding of the language, without the help of a lively voice, using the books requisite thereunto. Also that towards attaining the knowledge of the Latine, there are set forth certain books, introducting into the grammaticall skill thereof, in so easie a manner, as that they are as it were a tutor for ones private help in the said study.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94816</idno><idno type="EEBO-CITATION">99861588</idno>
+  <idno type="VID">159799</idno>
+  <idno type="EEBO-PROQUEST">2240902131</idno>
+  
+            <idno type="STC">Wing T2089</idno>
+            <idno type="STC">Thomason E345_12</idno>
+            <idno type="STC">ESTC R200992</idno>
+            <idno type="PROQUEST">99861588</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861588e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159799)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E345[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise concerning tongues appertaining to learning: viz. the [brace] Hebrew, Greek, Latine, Chaldean, Syrian, and Arabian. Shewing profit of skill in them, and in how short time a student may receive such instructions and directions in any one of them, as wherby he may afterward proceed in the understanding of the language, without the help of a lively voice, using the books requisite thereunto. Also that towards attaining the knowledge of the Latine, there are set forth certain books, introducting into the grammaticall skill thereof, in so easie a manner, as that they are as it were a tutor for ones private help in the said study.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted, and are to be sold at the signe of the Princes Armes, over against Pauls greater north doore.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 22 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Language and languages --  Study and teaching --  Early works to 1800.</term>
+               <term type="topical_term">Latin language --  Study and teaching --  Early works to 1800.</term>
+               <term type="topical_term">Hebrew language --  Study and teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159799:1"/>
+            <p>A TREATISE Concerning TONGUES Appertaining to LEARNING: viz. The
+<list>
+                  <item>
+                     <hi>Hebrew,</hi>
+                  </item>
+                  <item>
+                     <hi>Greeke,</hi>
+                  </item>
+                  <item>
+                     <hi>Latine,</hi>
+                  </item>
+                  <item>
+                     <hi>Chaldean,</hi>
+                  </item>
+                  <item>
+                     <hi>Syrian,</hi> and</item>
+                  <item>
+                     <hi>Arabian.</hi>
+                  </item>
+               </list> Shewing profit of skill in them, and in how short time a Student may receive such Instructions and Directions in any one of them, as whereby he may afterward pro<g ref="char:EOLhyphen"/>ceed in the understanding of the Lan<g ref="char:EOLhyphen"/>guage, without the help of a lively voice, using the Books requisite thereunto. Also that towards attaining the knowledge of the Latine, there are set forth certain books, in<g ref="char:EOLhyphen"/>troducting into the Grammaticall skill thereof, in so easie a manner, as that they are as it were a Tutor for ones private help in the said Study.</p>
+            <q>
+               <gap reason="foreign" resp="#oxf">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <p>Imprinted, and are to be sold at the Signe of the <hi>Princes Armes,</hi> over against <hi>Pauls</hi> greater North doore.</p>
+         </div>
+      </front>
+      <body>
+         <div type="educational_prospectus">
+            <pb facs="tcp:159799:2"/>
+            <pb n="1" facs="tcp:159799:2"/>
+            <head>A Treatise concerning Tongues pertain<g ref="char:EOLhyphen"/>ing unto Learning.</head>
+            <div type="part">
+               <head>Of the Hebrew Tongue.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Uch as have delight in reading of the holy Scriptures, if they understand the Hebrew Text, they may observe in many places something considera<g ref="char:EOLhyphen"/>ble, which in a Translation is not al<g ref="char:EOLhyphen"/>together so apparant. And whereas among Translations there is much difference, it is therefore profitable to have the skill of this Tongue, for to be able to know which interpre<g ref="char:EOLhyphen"/>tation is according to the literall signification of the said Originall, and also how many waies the same may be taken Grammatically. And seeing that many are addicted to the study of sundry Languages, why should they not also unto this called the Mother of all ancient Speeches, and being in some respects the very glory of all Tongues?</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:159799:3"/>
+               <head>Of the Greeke.</head>
+               <p>IS it not in like manner profitable to know the Text of the Gospell in the Originall thereof? But the skill of Greeke is usefull in most Learnings. The com<g ref="char:EOLhyphen"/>mon Grammer of Latine cannot in every point be un<g ref="char:EOLhyphen"/>derstood, without some knowledge in the Greeke. Al<g ref="char:EOLhyphen"/>so a very great part of words now used as Latine, are Greeke originally.</p>
+            </div>
+            <div type="part">
+               <head>Of the Latine.</head>
+               <p>VVHoso hath not some knowledge in the La<g ref="char:EOLhyphen"/>tine, cannot understand much English which is spoken and written. But he that understandeth the said Tongue, is able to read even universall Learn<g ref="char:EOLhyphen"/>ing. And to the end that men may proceed in under<g ref="char:EOLhyphen"/>standing thereof by their own private study, I have set forth such Books, as are as it were a Tutor; that when they perceive the use of them, they may without the voice of a Teacher increase easily in the skill of the Language, and in short time may make a good progresse in the same. He that indifferently understandeth but the Accidence, may make the use of the said Bookes without any teaching, onely observing the direction which is delivered in the first of them.</p>
+            </div>
+            <div type="part">
+               <head>Of the Chaldean.</head>
+               <p>THere are sundry Chapters of <hi>Daniel</hi> and <hi>Ezra,</hi> whose Originall is not <hi>Hebrew</hi> but <hi>Chaldee.</hi> There
+<pb n="3" facs="tcp:159799:3"/>are also in this Tongue certain Paraphrases on Hebrew holy Scripture, said to be have bin set forth neer the Apo<g ref="char:EOLhyphen"/>stles time, and observed to be usefull in many respects. Ancient learned Jewes have given this councell, (as <hi>Buxtorfius</hi> hath related it afore his <hi>Syro-Chaldean Lexi<g ref="char:EOLhyphen"/>con, viz.</hi>
+                  <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Ne sit lingua Syriaca (vel Chaldaica) vilis in oculis tuis, quia in Lege, in Prophetis, in Hagiographis invenimus, quòd De<g ref="char:EOLhyphen"/>us sanctus &amp; benedictus impertiatur ei honorem: in Lege, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the Syrian.</head>
+               <p>
+                  <hi>BƲxtorfius</hi> in the Epistle afore his <hi>Chaldee Grammer</hi> saith, <hi>Hac lingua extat Translatio novi Testamenti, meritò pretiosi Thesauri loco aestimanda, qua Christiani in Syria, &amp; usi sunt, &amp; utuntur.</hi> Whereas the Syriack Edi<g ref="char:EOLhyphen"/>tion of the New Testament, is accounted the most an<g ref="char:EOLhyphen"/>cient Translation thereof, is it not profitable to have skill in it, as it is profitable to have skill in the most an<g ref="char:EOLhyphen"/>cient Translation of the Old Testament? <hi>Necessaria est Doctoribus cognitio linguarum, inprimis Latinae, Graecae, Hebraicae, Chaldaicae, Syriacae Amandus, Polanus Syntag. Theol. lib.</hi> 7. <hi>cap.</hi> 11.</p>
+            </div>
+            <div type="part">
+               <head>Of the Arabian.</head>
+               <p>THe Arabick is a Tongue of great use in many parts of the world; and the knowledge of it is necessa<g ref="char:EOLhyphen"/>ry, for to be able to judge of the Translations of Au<g ref="char:EOLhyphen"/>thors therein; and likewise to understand the <hi>Etymo<g ref="char:EOLhyphen"/>logie</hi> of many words thereof used in Physick, Astro<g ref="char:EOLhyphen"/>nomy,
+<pb n="4" facs="tcp:159799:4"/>&amp;c. <hi>Erpenius</hi> in the Epistle afore his <hi>Arabick Grammer</hi> of the first Edition, saith, <hi>Res certa est, &amp; quae probatione non indiget, linguae Arabicae, quae longè &amp; antiquissima, &amp; elegantissima est, cognitionem summèuti<g ref="char:EOLhyphen"/>lem &amp; necessarariam esse, tum ad illustrandam linguam Hebraeam &amp; reliquas orientales; tum ad intelligenda infi<g ref="char:EOLhyphen"/>nita, eaque eximia in omni generescientiarum volumina, ab Arabibus conscripta, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>What the helpe is, which is signified to be had in the Tongues aforesaid?</head>
+               <p>THe help is introduction into the knowledge of the generality of the Grammaticall Property of the said Languages, and how to make use of the Bookes requisite, also how to go on in studying Authors, and to need no more any lively voice for help in the said study.</p>
+            </div>
+            <div type="part">
+               <head>How much time is needfull to be spent unto the receiving of such a knowledge in any one of the said Tongues.</head>
+               <p>IT is now almost forty yeers agoe, since in this City I began the study of Introducting into the Tongues; and much experience hath taught an easier way of Ini<g ref="char:EOLhyphen"/>tiating, than at first was apprehended. So that such as are capable and industrious, may attaine to the afore<g ref="char:EOLhyphen"/>said measure of understanding, in any one of the men<g ref="char:EOLhyphen"/>tioned Languages, by being taught seven or eight times in severall daies, and spending at each time two houres, and between each time copying out certaine writings, and meditating on them.</p>
+               <p>There have been some which have comprehended it, by being instructed but an houre at each time, and transcribing &amp;c. as is aforesaid.</p>
+               <pb n="5" facs="tcp:159799:4"/>
+               <p>Once there was a Student (otherwise well learned) which desired that there might be spent with him se<g ref="char:EOLhyphen"/>ven or eight houres in one day, for his introduction in<g ref="char:EOLhyphen"/>to Hebrew. And at the end of the said time he acknow<g ref="char:EOLhyphen"/>ledged, that he needed no more teaching by any lively voice, but having my notes for to Copy out, he could by them and such Books as were commended to him, well enough proceed in studying the Tongue. And this need not seeme unpossible, whereas there have been, which by help of Books only, have attained to much skill in the said Language, and never had therein the help of any lively voice at all. Also <hi>Clenard</hi> in his Grammer doth in a manner signifie the same to be pos<g ref="char:EOLhyphen"/>sible concerning the very Greek, the difficultest of all, where he saith, <hi>Meditationes Graecanicae in artem Gram<g ref="char:EOLhyphen"/>maticam in eorum gratiam, qui viva praeceptoris voce de<g ref="char:EOLhyphen"/>stituuntur, &amp; liter as Graecas suo ipsi ductu discere coguntur.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How such are to be prepared, which desire to receive in one day so much knowledge as they can in any one of the said Tongues.</head>
+               <p>THe consonants and vowels of the Hebrew, Syrian, or Arabian, are to be knowne, and their names to be learned by heart, in such order as they stand in the Alphabet. Of the Greek the whole declining of the Verb <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is to be had in memory. And of the Latine there is in some measure to be understood, from the beginning of the Accidence unto the end of the decli<g ref="char:EOLhyphen"/>ning of the foure examples of Verbs.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:159799:5"/>
+               <head>Of the best Order to be observed in studying the said Easterne Tongues</head>
+               <p>AS Chaldee is learned after Hebrew, so is Syrian easiest apprehended after the Chaldean. Also he that understandeth the generality of the Hebrew words will soonest comprehend the Arabick: and meanes is now extant, whereby the greatest part of the Hebrew may in short time be understood.</p>
+            </div>
+            <div type="part">
+               <head>Of the Rabbinicall.</head>
+               <p>BY the name <hi>Rabbinicall</hi> there is meant whatsoever Speech the Jewes in their Writings have used as their own, which is not Hebrew nor Chaldee. And the said Tongue in Words, Phrases, peculiar Properties Grammaticall, and in other matters is very great. Such as are unseen herein may with few instructions under<g ref="char:EOLhyphen"/>stand how to study a Rabbinicall writing with help of the Translation. But afore one can well begin in a Text thereof, he is at least to be able for to construe and parse readily the Hebrew Psalter, and to have the knowledge of the Chaldean Grammer.</p>
+            </div>
+            <div type="part">
+               <head>Concerning their learning of Hebrew, which understand not Latine.</head>
+               <p>WHereas an Hebrew Grammer is set forth, whose Rules are in English, they which are endued with capacity for such Learning, and will be duly laborious, may soone by help of the said Book, and other means which may be mini<g ref="char:EOLhyphen"/>stred unto them, understand how in some Grammaticall man<g ref="char:EOLhyphen"/>ner to examine any Hebrew Text of Holy Scripture; yea and in short time to make the Hebrew Bible in a good measure fa<g ref="char:EOLhyphen"/>miliar unto them.</p>
+               <p>Reward for instructing in any of the aforesaid Tongues is expected by the houre, that if after any time a Student con<g ref="char:EOLhyphen"/>ceiveth himself unable for progresse, he need not be at any more expence. <gap reason="foreign" resp="#oxf">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
